@@ -15,5 +15,5 @@ CarsonDiningMenu gathers menu HTML from the University of Oregon’s Carson dini
 The University of Oregon eventually stopped publishing their menu in plain-text HTML and changed to posting a scheduled menu as a PDF.
 
 ## Links:
-[Demo](https://www.instagram.com/carsondiningmenu)
-[Repository](https://github.com/bdeweesevans/CarsonDiningMenu)
+- [Demo](https://www.instagram.com/carsondiningmenu)
+- [Repository](https://github.com/bdeweesevans/CarsonDiningMenu)
