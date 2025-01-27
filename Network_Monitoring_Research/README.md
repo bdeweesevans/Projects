@@ -29,3 +29,7 @@ The machine should be designed to perform post-event traffic analysis. It reflec
 
 ## Final Comments:
 This page will be updated once the project is complete.
+
+---
+
+![chassis](chassis.webp)

@@ -3,8 +3,8 @@ title: "Just a Bunch Of Drives"
 date: "2024-12-01"
 summary: "Researching a practical & cost-effective solution to replace Google Cloud Storage"
 images:
-  - "drives.webp"
   - "epyc.webp"
+  - "drives.webp"
 team:
   - "Benjamin DeWeese"
   - "Lander Duncan"
@@ -41,3 +41,9 @@ We do not want to have to worry about leaks or maintenance. But we still need ke
 
 ## Future Outlook
 After 10PB are deployed, NYU may be looking to expand into the 50PB range.
+
+---
+
+![AMD EPYC 7443P](epyc.webp)
+
+![Western Digital 0F38652s](drives.webp)

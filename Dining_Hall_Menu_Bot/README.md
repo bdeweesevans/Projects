@@ -3,6 +3,8 @@ title: "The Carson Dining Menu Page"
 date: "2023-06-01"
 summary: "A far more pleasant-looking dining menu."
 images:
+  - "flyers1.webp"
+  - "flyers2.webp"
   - "carson.webp"
 team:
   "Benjamin DeWeese"
@@ -17,3 +19,15 @@ The University of Oregon eventually stopped publishing their menu in plain-text 
 ## Links:
 - [Demo](https://www.instagram.com/carsondiningmenu)
 - [Repository](https://github.com/bdeweesevans/CarsonDiningMenu)
+
+---
+
+![Flyers on Cement Wall](flyers1.webp)
+
+A little advertisement.
+
+![Flyers on Elevator Doors](flyers2.webp)
+
+A little more advertisement.
+
+![Carson Hall](carson.webp)

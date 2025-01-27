@@ -24,5 +24,8 @@ A compact "Identification Friend or Foe" (IFF) system consisting of two key comp
 When a user hears a drone overhead, a single button press instantly verifies whether the drone is friendly.  
 [Demo video of prototype](https://tinyurl.com/yy5fafyh)
 
-## Final Comments:
-The system is currently undergoing field testing.
+---
+
+![diagram](diagram.webp)
+
+![prototype](prototype.webp)

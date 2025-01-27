@@ -44,3 +44,7 @@ No water cooling - we do not want to have to worry about leaks or maintenance. W
 
 ## Future Outlook
 We may build more machines in the future.
+
+---
+
+![a really big GPU](nvidia-gpu.webp)

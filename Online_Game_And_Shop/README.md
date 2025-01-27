@@ -15,3 +15,7 @@ New York University CSCI-UA-61 final project. The project uses SQLite3 for datab
 
 ## Links:
 - [Repositroy](https://github.com/bdeweesevans/CSCI-UA-61-FinalProject)
+
+---
+
+![slide from the presentation](shop.webp)

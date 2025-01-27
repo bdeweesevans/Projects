@@ -14,3 +14,7 @@ A SSG blog-style site for a writer, built using Eleventy and deployed with Netli
 ## Links:
 - [Demo](https://liliraynaud.netlify.app/)
 - [Repositroy](https://github.com/bdeweesevans/liliraynaud)
+
+---
+
+![blossom background](blossom.webp)

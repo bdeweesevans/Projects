@@ -15,3 +15,7 @@ It's a to-do list that I had for myself, and a friend and I decided to turn it i
 ## Links:
 - [Demo](https://www.10clicks.org/)
 - [Repository](https://github.com/10clicks/10clicks.org)
+
+---
+
+![10c logo banner](10cbanner.webp)

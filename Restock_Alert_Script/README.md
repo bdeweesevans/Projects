@@ -13,3 +13,7 @@ The script checks the inventory status of the Flipper Zero by scraping the webpa
 
 ## Links:
 - [Repository](https://www.github.com/bdeweesevans/FlipperZero)
+
+---
+
+![flipper banner](flipperbanner.webp)

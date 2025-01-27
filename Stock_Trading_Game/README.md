@@ -20,3 +20,9 @@ The articles are generated using GPT, as well as the images. Each API call to cr
 ## Links:
 - [Demo](https://windy-weasel-57.deno.dev/home)
 - [Repository](https://github.com/OlexG/jungle-market)
+
+---
+
+![ticker chart](market.webp)
+
+![ticker selector](jungle.webp)
