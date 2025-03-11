@@ -17,7 +17,7 @@ team:
 This is a current & ongoing project with the intent of resolving NYU's dependency issues on Google Cloud Storage.
 
 ## Goal: 
-Deploy an initial 9 PetaBytes (9,000 Terrabytes | ~562,500 Kindle 11th Gen. readers) of redundant storage over the HSRN's network infrastructure, accessible to researches & faculty throughout the campus's buildings, while keeping the solution cost-efficient.
+Deploy an initial 9 PetaBytes (9,000 Terabytes | ~562,500 Kindle 11th Gen. readers) of redundant storage over the HSRN's network infrastructure, accessible to researches & faculty throughout the campus's buildings, while keeping the solution cost-efficient.
 
 ## Considerations:
 We do not want to have to worry about leaks or maintenance. But we still need keep fan noise low because noise is bad for the drives' performance. 
