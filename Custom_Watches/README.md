@@ -10,6 +10,7 @@ team:
 
 ## Overview:
 These watches draw inspiration from the Grand Seiko Snowlake, models SBGA211G and SBGX355. They are built upon the heavily modular and customizable bodies of the SKX-011 and 013. The movement is an upgraded NH36. The sheet below is for the SXK-011 build, and the image is from the SKX-013.
+
 The image below is of the internals, a timegrapher screenshot, and 1 of the 2 pieces made. 
 
 ## Links:
