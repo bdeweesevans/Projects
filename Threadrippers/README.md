@@ -105,7 +105,7 @@ To create four machines so over-specked that we can underclock them. That way, w
 	4. Save and exit the BIOS.
 4. Install the OS.
 	1. Download the ISO file (I opted for [Ubuntu Server 22](https://releases.ubuntu.com/jammy/)).
-	2. Flash it to a USB using a tool such as [Belena Etcher](https://etcher.balena.io/).
+	2. Flash it to a USB using a tool such as [Balena Etcher](https://etcher.balena.io/).
 	3. Ensure the machine is powered off, and plug the USB into the rear I/O.
 	4. Turn on the machine and wait for it to reach the Install Screen.
 		1. Configure as per normal up until drives section.
