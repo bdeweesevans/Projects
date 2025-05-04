@@ -70,7 +70,7 @@ To create four machines so over-specked that we can underclock them. That way, w
 		2. Take off the front-plate.
 		3. Peel off clear covering for the thermal pads which the NVMEs sit on.
 		4. Install the 4 NVME drives.
-		5. Peel off clear covering for the large thermal pad that sits ontop of the NVMEs.
+		5. Peel off clear covering for the large thermal pad that sits on top of the NVMEs.
 		6. Replace the front-plate.
 		7. Replace the back-plate and screw it back into place.
 	14. Install the cards
@@ -100,7 +100,7 @@ To create four machines so over-specked that we can underclock them. That way, w
 	6. It will then continue to flash until the update is complete. When complete, the light will turn off.
 3. Enable bifurcation within the BIOS.
 	1. Enter bios.
-	2. Navigate to bifurcation settings by folloeing this UI path: `Advanced > Onboard Devices Configuration`.
+	2. Navigate to bifurcation settings by following this UI path: `Advanced > Onboard Devices Configuration`.
 	3. Set slots `PCIEX16(G5)_1` and `PCIEX16(G5)_3` to `PCIE RAID MODE`.
 	4. Save and exit the BIOS.
 4. Install the OS.
