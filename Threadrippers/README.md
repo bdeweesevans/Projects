@@ -56,7 +56,7 @@ To create four machines so over-specked that we can underclock them. That way, w
 		- The two red 8 pin plugs go to `PCIE_CPU_12V_1` and `PCIE_CPU_12V_2`.
 		- Due to the amount of PCIE slots we are using, we need to dedicate power to `PCIE_8P(2)_PWR`.
 		- I am using an adapter to use a CPU power cable. This adapter came with the motherboard. 
-			<img src="images/adapter.webp" width="200" height="64" alt="image">
+			<img src="images/adapter.webp" width="160" height="80" alt="image">
 	10. Connect the two chassis fans to their fan headers.
 		- Plug them into `CHA_FAN` and `CHA_FAN2` respectively.
 	11. Connect the power button.
