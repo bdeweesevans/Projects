@@ -4,13 +4,15 @@ date: "2025-05-04"
 summary: "Building four Threadripper machines."
 images:
   - "threadripper.webp"
+  - "overview.webp"
+  - "adapter.webp"
 team:
   - "Benjamin DeWeese"
 ---
 
 ### Motivation
 
-To create four machines so over-specked that we can underclock them. That way, we can determine the most optimized cost/performance setups for application specific machines, such as Zeek nodes and Ceph [JBOD] boxes(https://www.seagate.com/blog/what-is-jbod/). Below is what I did.
+To create four machines so over-specked that we can underclock them. That way, we can determine the most optimized cost/performance setups for application specific machines, such as Zeek nodes and Ceph [JBOD boxes](https://www.seagate.com/blog/what-is-jbod/). Below is what I did.
 
 ### Per machine components
 
@@ -54,7 +56,7 @@ To create four machines so over-specked that we can underclock them. That way, w
 		- The two red 8 pin plugs go to `PCIE_CPU_12V_1` and `PCIE_CPU_12V_2`.
 		- Due to the amount of PCIE slots we are using, we need to dedicate power to `PCIE_8P(2)_PWR`.
 		- I am using an adapter to use a CPU power cable. This adapter came with the motherboard. 
-			![image](images/adapter.webp){width=276 height=63}  
+			<img src="images/adapter.webp" width="276" height="63" alt="image">
 	10. Connect the two chassis fans to their fan headers.
 		- Plug them into `CHA_FAN` and `CHA_FAN2` respectively.
 	11. Connect the power button.
@@ -122,3 +124,8 @@ Although it is not advertized, 45Drives __will__ make EEB chassis on request. Th
 ### Technical Resources Referenced
 
 https://dlcdnets.asus.com/pub/ASUS/mb/SocketsTR5/Pro_WS_WRX90E-SAGE_SE/E25489_Pro_WS_WRX90E-SAGE_SE_EM_V3_WEB.pdf?model=Pro%20WS%20WRX90E-SAGE%20SE
+
+### Images
+
+![image](images/threadripper.webp)
+![image](images/overview.webp)
